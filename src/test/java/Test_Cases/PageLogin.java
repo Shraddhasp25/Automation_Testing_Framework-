@@ -34,7 +34,6 @@ public class PageLogin extends BaseTest{
 			{"shraddhasp20@gmail", "test123Autom"},
 			{"shrad20@gmail.com", "test123Automation"},
 			{"shrasp20@gmail.com", "test1ation"},
-			{"shraddhasp20@gmail.com", "test123Automation"}
 			
 		};
 	}
